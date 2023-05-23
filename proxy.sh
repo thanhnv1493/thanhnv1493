@@ -14,7 +14,7 @@ gen64() {
 
 # Thay đổi token và chat_id dưới đây bằng thông tin của bot Telegram và chat nhận tin nhắn
 TOKEN="5839097114:AAHwufhmUCxgnKFAg_B9HJKWZJx3a9GhLVI"
-CHAT_ID="@proxythanh45_bot"
+CHAT_ID="654576348"
 
 send_message_to_telegram() {
 	MESSAGE="$1"
